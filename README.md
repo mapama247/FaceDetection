@@ -1,6 +1,6 @@
-# FaceDetection
+# FaceDetection (Boosting)
 
-Implementation of the AdaBoost algoithm in MATLAB for face detection in images.
+MATLAB implementation of the AdaBoost algorithm for face detection in images.
 
 The algorithm sequentially trains a number of so-called weak classifiers that are combined into one strong classifier.
 
